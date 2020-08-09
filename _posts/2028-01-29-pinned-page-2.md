@@ -25,8 +25,7 @@ excerpt: 晒成果~  😀 如果你是新人, 强烈建议先阅读一遍我总�
 ![_]({{site.baseurl}}/assets/images/IMG_2477.jpg)  
 
 ##### 8月6日, 2020
-今天开始短线改用老虎证劵 😃, <a href="{{site.baseurl}}/pinned-page-2">为什么用老虎证劵?</a>
-充了5000刀玩玩.
+今天开始短线改用老虎证劵 😃, 充了5000刀玩玩. <a href="{{site.baseurl}}/contact">欢迎关注!</a>
 
 
 老虎证劵第一笔交易 🤑 开门红
