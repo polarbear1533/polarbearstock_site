@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "大盘每日点评 [2020年8月7日更新]"
+title:  "大盘每日点评 [2020年8月10日更新]"
 author: polarbear
 categories: [ Pinned ]
 image: assets/images/pinned_page3_toppic.jpg
