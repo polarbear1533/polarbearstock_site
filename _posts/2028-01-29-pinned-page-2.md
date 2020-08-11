@@ -20,7 +20,7 @@ excerpt: 晒成果~  😀 如果你是新人, 强烈建议先阅读一遍我总�
 
 这两只依然持仓中, $OXBR 明天盘前抛.
 
-![_]({{site.baseurl}}/assets/images/IMG_0282.jpg) 
+![_]({{site.baseurl}}/assets/images/IMG_0282.JPG) 
 ![_]({{site.baseurl}}/assets/images/IMG_2497.jpg)
 
 ![_]({{site.baseurl}}/assets/images/IMG_2509.jpg)  
