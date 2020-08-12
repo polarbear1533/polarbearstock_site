@@ -5,8 +5,8 @@
     <description>北极熊炒美股</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2020 06:07:01 -0700</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2020 06:07:01 -0700</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2020 17:36:05 -0700</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2020 17:36:05 -0700</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -237,8 +237,11 @@
       </item>
     
       <item>
-        <title>大盘每日点评 [2020年8月10日更新]</title>
+        <title>大盘每日点评 [2020年8月11日更新]</title>
         <description>&lt;p&gt;我会尽量做到每日更新, 及时总结新闻消息, 提醒大家熊市/牛市的转换.&lt;/p&gt;
+
+&lt;h5 id=&quot;8月11日-2020&quot;&gt;8月11日, 2020&lt;/h5&gt;
+&lt;p&gt;市场中断了8天的持续上涨。由于科技股下跌，标普500指数八天来首次收盘下跌. 在这样的抛售期间，拥有足够的现金才能增加仓位, 这也是为什么我一直会提醒止盈, 涨了就卖的原因.&lt;/p&gt;
 
 &lt;h5 id=&quot;8月10日-2020&quot;&gt;8月10日, 2020&lt;/h5&gt;
 &lt;p&gt;这周第一天, 道琼斯指数上涨350点，标准普尔500指数接近历史高点，纳斯达克指数以亏损开始，不过随后在下午晚些时候开始恢复。&lt;/p&gt;
