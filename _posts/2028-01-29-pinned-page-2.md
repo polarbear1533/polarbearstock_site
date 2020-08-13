@@ -21,7 +21,7 @@ excerpt: 晒成果~  😀 如果你是新人, 强烈建议先阅读一遍我总�
 
 ![_]({{site.baseurl}}/assets/images/IMG_0297.jpg)  
 
-全部超短线目标包括这支, 群内都有提前发布消息以及实时更新, 这次也发在了老虎社区.    
+全部超短线目标包括这支, 群内都有提前至少一天发布消息以及实时更新, 这次也发在了老虎社区.    
 <a href="{{site.baseurl}}/contact">欢迎关注!</a>
 ![_]({{site.baseurl}}/assets/images/IMG_2593.jpg)  
 ![_]({{site.baseurl}}/assets/images/IMG_2591.jpg)  
