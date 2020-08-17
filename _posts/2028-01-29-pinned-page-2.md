@@ -1,17 +1,26 @@
 ---
 layout: post
-title:  "成果分享! [2020年8月12日更新]"
+title:  "日志分享! [2020年8月15日更新]"
 author: polarbear
 categories: [ Pinned ]
 image: assets/images/pinned_page2_toppic.jpg
 rating: 5
 comments: false
-excerpt: 晒成果~  😀 如果你是新人, 强烈建议先阅读一遍我总结的美股短线入门必读.
+excerpt: 晒一路的成功与失败~  😀 如果你是新人, 强烈建议先阅读一遍我总结的美股短线入门必读.
 ---
 
 有兴趣的可以 <a href="{{site.baseurl}}/contact">加入</a> 微信群, 未来的提醒以及目标更新也会发在微信群里, 如果你是新人, 强烈建议先阅读一遍我总结的 <a href="{{site.baseurl}}/pinned-page-4">美股短线入门必读</a>. 
 
 废话不多说了, 晒图
+
+##### 8月14日, 2020
+- $ACER, 短线, 8月13日-8月14日, 亏损-25%
+
+踩雷了... 😭 虽然在发布目标的时候有附带8%的止损价, 但我睡过头, 并没有及时遵守止损规则, 醒来后马上在3.9价位止损, 由于押了超过半仓, 仍然损失惨重... 目前资金剩余$14561. <a href="{{site.baseurl}}/post1">详细情况与错误总结</a>
+
+
+![_]({{site.baseurl}}/assets/images/IMG_0302.jpg)  
+
 
 ##### 8月12日, 2020
 

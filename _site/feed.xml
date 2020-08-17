@@ -5,8 +5,8 @@
     <description>北极熊炒美股</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Aug 2020 19:08:03 -0700</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2020 19:08:03 -0700</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2020 19:13:07 -0700</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2020 19:13:07 -0700</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -68,10 +68,19 @@
       </item>
     
       <item>
-        <title>成果分享! [2020年8月12日更新]</title>
+        <title>日志分享! [2020年8月15日更新]</title>
         <description>&lt;p&gt;有兴趣的可以 &lt;a href=&quot;/contact&quot;&gt;加入&lt;/a&gt; 微信群, 未来的提醒以及目标更新也会发在微信群里, 如果你是新人, 强烈建议先阅读一遍我总结的 &lt;a href=&quot;/pinned-page-4&quot;&gt;美股短线入门必读&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;废话不多说了, 晒图&lt;/p&gt;
+
+&lt;h5 id=&quot;8月14日-2020&quot;&gt;8月14日, 2020&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;$ACER, 短线, 8月13日-8月14日, 亏损-25%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;踩雷了… 😭 虽然在发布目标的时候有附带8%的止损价, 但我睡过头, 并没有及时遵守止损规则, 醒来后马上在3.9价位止损, 由于押了超过半仓, 仍然损失惨重… 目前资金剩余$14561. &lt;a href=&quot;/post1&quot;&gt;详细情况与错误总结&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_0302.jpg&quot; alt=&quot;_&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;8月12日-2020&quot;&gt;8月12日, 2020&lt;/h5&gt;
 
@@ -418,6 +427,45 @@
         <pubDate>Tue, 25 Jan 2028 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/pinned-page-6/</link>
         <guid isPermaLink="true">http://localhost:4000/pinned-page-6/</guid>
+        
+        
+        <category>Pinned</category>
+        
+      </item>
+    
+      <item>
+        <title>8月14日踩雷, 错误总结</title>
+        <description>&lt;p&gt;8月13日我发了3个短线目标:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_2696.jpg&quot; alt=&quot;_&quot; /&gt;  &lt;br /&gt;
+&lt;img src=&quot;/assets/images/IMG_2697.jpg&quot; alt=&quot;_&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/images/IMG_2698.jpg&quot; alt=&quot;_&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是8月14日的结果:
+&lt;img src=&quot;/assets/images/IMG_2686.jpg&quot; alt=&quot;_&quot; /&gt;  &lt;br /&gt;
+&lt;img src=&quot;/assets/images/IMG_2684.jpg&quot; alt=&quot;_&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/images/IMG_2685.jpg&quot; alt=&quot;_&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;当时我评论了最看好ACER, 干扰了其他人自己的判断, 最后连累了很多人, X_X, 对不起了大家.&lt;/p&gt;
+
+&lt;p&gt;以后我还是会大概每周更新一次短线, 最多不会超过3支股票, 并且在群里鼓励进行投票机制, 让更多人参与选股的判断.&lt;/p&gt;
+
+&lt;h5 id=&quot;错误反思&quot;&gt;错误反思&lt;/h5&gt;
+
+&lt;p&gt;如果回过头看, 这次的错误其实非常明显, 我第二次买入ACER的时间和之前的评析结果存在矛盾.  &lt;br /&gt;
+这个是我之前对同一支股票一次成功盈利的短线, 当时已经预测了财报后风险很大, 绝不能持有过13日, 但是近期超短线的连续盈利的导致我内心膨胀, 在同一天买入, 结果隔天就大跌, 真的是作死了一次.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_2477.jpg&quot; alt=&quot;_&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;针对这个情况, 我以后发短线/超短线的时候会加入“已经连续成功多少个的计数器”, 每一次失败就会reset这个计数器作为一种提醒方式, 当连续成功多次的时候更要注重仓位和止损, 避免在一次的踩雷中功亏一篑.   &lt;br /&gt;
+失败的定义: 单个股票清仓后亏损5%以上, 或者仍然持有但市场价已经下跌15%以上.&lt;/p&gt;
+
+&lt;p&gt;💪 我会将这一次的失败可以转化为经验, 不犯同一种错误第二次, 继续努力.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 15 Aug 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/post1/</link>
+        <guid isPermaLink="true">http://localhost:4000/post1/</guid>
         
         
         <category>Pinned</category>
