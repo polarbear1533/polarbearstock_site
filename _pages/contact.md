@@ -9,7 +9,14 @@ comments: false
 <br/>
 <br/>
 <h3 style="font-weight:normal">微信群</h3>
-<img class="img-thumb" src="{{ site.baseurl }}/assets/images/test_qr.jpg" alt="{{ post.title }}"> 
+由于已经满200人, 需要手动邀请才行, 请加我好友标注美股, 微信ID: cc18723aa
+
+<br/>
+<br/>
+<br/>
+<h3 style="font-weight:normal">Discord群</h3>
+邀请链接在微信群公告里, 这个聊天平台允许分类聊天, 保存所有聊天记录, 一键搜索, 十分方便.
+![_]({{site.baseurl}}/assets/images/IMG_2769.jpg)  
 
 <br/>
 <br/>
