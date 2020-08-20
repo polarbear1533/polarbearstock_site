@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "日志分享! [2020年8月19日更新]"
+title:  "日志分享! [2020年8月20日更新]"
 author: polarbear
 categories: [ Pinned ]
 image: assets/images/pinned_page2_toppic.jpg
@@ -12,6 +12,15 @@ excerpt: 晒一路的成功与失败~  😀 如果你是新人, 强烈建议先�
 有兴趣的可以 <a href="{{site.baseurl}}/contact">加入</a> 微信群, 未来的提醒以及目标更新也会发在微信群里, 如果你是新人, 强烈建议先阅读一遍我总结的 <a href="{{site.baseurl}}/pinned-page-4">美股短线入门必读</a>. 
 
 在这篇帖子将会分享我的成功与失败, 废话不多说了, 晒图
+
+##### 8月20日, 2020
+- $HUSA, 短线, 8月17日1.3以下建仓, 上涨+22%
+
+很快就可以从上一次的损失中恢复过来了. $HUSA在8月19日也是建仓的好机会.     
+记得积攒空余的现金另寻其他短线机会.
+
+![_]({{site.baseurl}}/assets/images/IMG_0305.jpg)
+![_]({{site.baseurl}}/assets/images/IMG_2841.jpg)
 
 ##### 8月19日, 2020
 晒仓 💪
