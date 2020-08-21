@@ -21,6 +21,7 @@ excerpt: 晒一路的成功与失败~  😀 如果你是新人, 强烈建议先�
 
 ![_]({{site.baseurl}}/assets/images/IMG_0305.jpg)
 ![_]({{site.baseurl}}/assets/images/IMG_2841.jpg)
+![_]({{site.baseurl}}/assets/images/IMG_2845.jpg)
 
 ##### 8月19日, 2020
 晒仓 💪
