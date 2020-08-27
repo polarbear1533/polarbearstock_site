@@ -14,12 +14,16 @@ excerpt: 晒一路的成功与失败~  😀 如果你是新人, 强烈建议先�
 在这篇帖子将会分享我的成功与失败, 废话不多说了, 晒图
 
 ##### 8月26日, 2020
-看涨 HUSA
 
-晒仓 💪
+- $DELL期权, 超短线, 8月25日-8月26日, 盈利+25%! 
+
+晒仓 💪 看涨 HUSA
 ![_]({{site.baseurl}}/assets/images/IMG_0308.jpg)
-
 ![_]({{site.baseurl}}/assets/images/IMG_2941.jpg)
+
+![_]({{site.baseurl}}/assets/images/IMG_2960.jpg)
+![_]({{site.baseurl}}/assets/images/IMG_2962.jpg)
+![_]({{site.baseurl}}/assets/images/IMG_2961.jpg)
 
 
 ##### 8月21日, 2020
