@@ -18,7 +18,7 @@ comments: false
 <h3 style="font-weight:normal">Discord群</h3>
 <!--邀请链接在微信群公告里, 这个聊天平台允许分类聊天, 保存所有聊天记录, 一键搜索, 十分方便.-->
 -新增: 短线期权交易以及个股看涨(看跌)原因分析.    
-邀请链接: discord.gg/mApxWQ2
+邀请链接: discord.gg/TANr5ea
 ![_]({{site.baseurl}}/assets/images/IMG_2769.jpg)  
 
 <br/>
